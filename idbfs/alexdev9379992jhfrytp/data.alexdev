@@ -1,0 +1,108 @@
+{
+    "currency": 0,
+    "skillTree": {
+        "keys": [
+            "冲刺分身2",
+            "黑洞",
+            "穿刺匕首",
+            "分身分身",
+            "弹射匕首",
+            "换位水晶",
+            "跟踪水晶",
+            "多重水晶",
+            "定身",
+            "匕首投掷",
+            "冲刺分身",
+            "换位分身",
+            "格挡回血",
+            "分身",
+            "格挡分身",
+            "闪避",
+            "脆弱",
+            "闪避分身",
+            "冲刺",
+            "旋转匕首",
+            "水晶爆破",
+            "水晶分身",
+            "格挡",
+            "分身强化"
+        ],
+        "values": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            true,
+            false,
+            false,
+            false,
+            true,
+            false
+        ]
+    },
+    "inventory": {
+        "keys": [
+            "b7a6d69bb29fb1749b9a90a4c58a15eb",
+            "67a5ae23668021a4bb2c9255ccec51de",
+            "a0d5398928498e14390853c564ab602d",
+            "068c9e04658ddbe4394efb4b3101546d",
+            "3994643437303a84392459dfb34042f2",
+            "d41adf2753a26064d9508809194d9cd4",
+            "b67d973204c78f940b19e7ba1a16caac",
+            "1f6898514dd628c42a3a588afda50e2e",
+            "9e97b743aaeea194090455b16cbe42a8",
+            "f82ce670861885947a53c8c4e439641f"
+        ],
+        "values": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    "equipmentId": [],
+    "checkpoints": {
+        "keys": [
+            "a7c97b68-9942-4da7-af1b-b5291ea40151",
+            "e5a7aed0-0188-4f29-8126-d380aa169a91"
+        ],
+        "values": [
+            false,
+            false
+        ]
+    },
+    "closestCheckpointId": "",
+    "lostCurrencyX": 18.242206573486329,
+    "lostCurrencyY": -2.0,
+    "lostCurrencyAmount": 0,
+    "volumeSettings": {
+        "keys": [
+            "sfx",
+            "bgm"
+        ],
+        "values": [
+            0.30300000309944155,
+            0.30300000309944155
+        ]
+    }
+}
